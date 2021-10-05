@@ -1,7 +1,7 @@
 # Beginner's Guide to PyTorch
 
 ### Description
-The above notebook contains a summary of the PyTorch library which is very widely used for applications related to deep learning and computer vision. It also contains some basic function which are very frequently used with clear examples which can help to get a basic understanding of PyTorch.
+The above notebook contains a summary of the PyTorch library which is very widely used for applications related to deep learning and computer vision. It also contains some basic pytorch functions which are very frequently used and also clear examples are given out which can help to get a basic understanding of the PyTorch libary.
 
 ### Install
 To run the above notebook, you will require Python and the following libraries to be installed:
